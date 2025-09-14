@@ -1,0 +1,48 @@
+[submodule "Documents/Websites/Examples/example2/themes/ananke"]
+	path = Documents/Websites/Examples/example2/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "Documents/Websites/introductoryphysics/themes/ananke"]
+	path = Documents/Websites/introductoryphysics/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "Documents/Websites/Examples/example3/phys/themes/hello-friend"]
+	path = Documents/Websites/Examples/example3/phys/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "Documents/Websites/Examples/example4/phys/themes/hello-friend"]
+	path = Documents/Websites/Examples/example4/phys/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "Documents/Websites/Examples/example5/themes/hello-friend-ng"]
+	path = Documents/Websites/Examples/example5/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "Documents/Websites/Examples/example5/phys/themes/hello-friend-ng"]
+	path = Documents/Websites/Examples/example5/phys/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "Documents/Websites/Examples/example7/example/themes/ananke"]
+	path = Documents/Websites/Examples/example7/example/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/Astronomie/astro/themes/ananke"]
+	path = Documents/Websites/Astronomie/astro/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/Astronomie/astronomy/themes/ananke"]
+	path = Documents/Websites/Astronomie/astronomy/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/site1/themes/ananke"]
+	path = Documents/Websites/site1/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/site2/themes/ananke"]
+	path = Documents/Websites/site2/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/my-hugo-site/themes/ananke"]
+	path = Documents/Websites/my-hugo-site/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "astro/themes/ananke"]
+	path = astro/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/Examples/example8/astro/themes/ananke"]
+	path = Documents/Websites/Examples/example8/astro/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/Examples/example9/astro/themes/ananke"]
+	path = Documents/Websites/Examples/example9/astro/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "Documents/Websites/Examples/example10/astro/themes/ananke"]
+	path = Documents/Websites/Examples/example10/astro/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
